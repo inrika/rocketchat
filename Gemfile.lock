@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    byebug (11.0.1)
+    rocketchat (0.1.18)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  byebug
+  rocketchat
+
+RUBY VERSION
+   ruby 2.5.1p57
+
+BUNDLED WITH
+   1.17.1
